@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './topiaofficial_logo.jpg';
 import './App.css';
 import Calendar from './components/calendar/Calendar';
 
